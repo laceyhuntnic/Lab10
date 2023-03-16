@@ -1,5 +1,6 @@
 #include <iostream>
 #include "bensfile.h"
+#include "face.h"
 int main()
 {
     std::cout<<"Hello, Ben!\n";
