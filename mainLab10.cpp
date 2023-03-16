@@ -3,7 +3,7 @@
 int main()
 {
     std::cout<<"Hello, Ben!\n";
-    std::cout<<"My favorite color is green.\n";//new
+    std::cout<<"My favorite color is green.\n";
     happyFace(3);
     return 0;
 }
