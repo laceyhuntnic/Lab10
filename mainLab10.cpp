@@ -7,4 +7,5 @@ int main()
     std::cout<<"My favorite color is green.\n";//new
     happyFace(3);
     return 0;
+    
 }
