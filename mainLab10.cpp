@@ -1,3 +1,4 @@
+#include <iostream>
 #include "bensfile.h"
 int main()
 {
